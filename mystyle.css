@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+.cool-img {
+  width: 25%;
+}
+
 .left {
   position: absolute;
   left: 0px;
@@ -13,6 +17,7 @@ body {
 }
 
 .sammich {
-  width: 50%;
+  width: 10%;
   padding: 10px;
+  top: 0px;
 }
